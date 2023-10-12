@@ -1,3 +1,15 @@
+---
+title: test
+menu_order: 1
+post_status: pending
+post_excerpt: 
+post_date: 
+taxonomy:
+    category:
+        - 입양
+---
+
+
 #대부업체
 
 <!-- wp:group {"backgroundColor":"base","layout":{"type":"constrained"}} -->
