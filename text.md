@@ -29,6 +29,16 @@ taxonomy:
 <!-- wp:latest-posts {"categories":[{"id":1407,"count":19,"description":"","link":"https://uknowlaw.com/category/%ec%9e%85%ec%96%91/","name":"입양","slug":"%ec%9e%85%ec%96%91","taxonomy":"category","parent":0,"meta":[],"_links":{"self":[{"href":"https://uknowlaw.com/wp-json/wp/v2/categories/1407"}],"collection":[{"href":"https://uknowlaw.com/wp-json/wp/v2/categories"}],"about":[{"href":"https://uknowlaw.com/wp-json/wp/v2/taxonomies/category"}],"wp:post_type":[{"href":"https://uknowlaw.com/wp-json/wp/v2/posts?categories=1407"}],"curies":[{"name":"wp","href":"https://api.w.org/{rel}","templated":true}]}}],"postsToShow":100,"excerptLength":28,"postLayout":"grid","columns":2,"featuredImageAlign":"left","featuredImageSizeSlug":"large","fontSize":"medium"} /--></div>
 <!-- /wp:group -->
 
+
+
+
+
+
+<!-- wp:latest-posts{"categories": [{"id": %d, "count": 100, "description": "", "link": "%s", "name": "%s", "slug": "%s", "taxonomy": "category", "parent": 0, "meta": [],"_links":{"self":[{"href":"https://uknowlaw.com/wp-json/wp/v2/categories/%d"}],"collection":[{"href":"https://uknowlaw.com/wp-json/wp/v2/categories"}],"about":[{"href":"https://uknowlaw.com/wp-json/wp/v2/taxonomies/category"}],"wp:post_type":[{"href":"https://uknowlaw.com/wp-json/wp/v2/posts?categories=%d"}],"curies":[{"name":"wp","href":"https://api.w.org/{rel}","templated":true}]}}],"postsToShow":100,"excerptLength":28,"postLayout":"grid","columns":2,"featuredImageAlign":"left","featuredImageSizeSlug":"large","fontSize":"medium"} /-->
+
+
+
+
 #개인택시운전
 <!-- wp:group {"backgroundColor":"base","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-base-background-color has-background"><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
